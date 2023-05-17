@@ -29,7 +29,7 @@
     "@ionic/angular": "^5.0.0",
     "@teamhive/lottie-player": "^1.0.0",
     "cordova-android": "9.0.0",
-    "cordova-browser": "6.0.0",
+    "cordova-browser": "7.0.0",
     "cordova-plugin-appminimize": "^1.0.1",
     "cordova-plugin-compat": "^1.2.0",
     "cordova-plugin-flashlight": "^3.2.0",
